@@ -1,2 +1,2 @@
 # various-animations
-various animations used in my prototyping process etc.
+various animations used in my prototyping process.
