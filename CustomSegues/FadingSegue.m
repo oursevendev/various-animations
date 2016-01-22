@@ -1,9 +1,9 @@
 //
 //  FadingSegue.m
-//  Toyo Products
+//  Prototypes
 //
-//  Created by R7Dev on 3/9/13.
-//  Copyright (c) 2013 SIM Media Works. All rights reserved.
+//  Created by Ryan Luas on 3/9/13.
+//  Copyright (c) 2013 FAANG Interactive. All rights reserved.
 //
 #import <QuartzCore/QuartzCore.h>
 #import "FadingSegue.h"
